@@ -1,0 +1,129 @@
+{
+    "title": "Le site dédié aux grandes distance",
+    "language":{
+        "en": "anglais",
+        "fr":"français",
+        "es":"espagnol"
+    },
+    "menu":{
+        "home":"ACCUEIL",
+        "services":"SERVICES",
+        "flotte":"FLOTTE",
+        "rate":"TARIF",
+        "reservation":"RESERVATION",
+        "faq":"FAQ",
+        "contact":"CONTACT"
+    },
+    "phone-number": "06 64 97 21 80",
+    "count":{
+        "year":"DEPUIS",
+        "customer":"CLIENTS",
+        "distance":"DISTANCE"
+    },
+    "values":{
+        "title":"NOS VALEURS",
+        "secure":"Prix fixes",
+        "secureContent":"Nos tarif sont fixés à l'avance par nos soins",
+        "qualite":"La qualité",
+        "qualiteContent":"Une qualité de service irreprochable",
+        "quick":"Toujours à l'heure",
+        "quickContent":"Parfait pour nos client les plus urgents",
+        "professionel":"Professionnels",
+        "professionelContent":"Plus de 13 ans dans le sectur du VTC"
+    },
+    "whoweare":{
+        "title":"QUI SOMME NOUS",
+        "content":"Allonavette est un service de navettes vers les aéroports de Paris (ADP), Orly, Roissy Charles de Gaulle (CDG) et l'aéroport de Beauvais.Mais Allonavette, c’est aussi votre transport vers EuroDisney au départ de Paris ou de toute autre ville d'Ile de France ainsi que pour tous vos déplacements personnels et professionnels. Le transport de personnes Allonavette est une alternative au taxi, aux transports en commun et à la location de voitures.Vous pouvez réserver en ligne et sans engagement tous types de transferts et tous nos transports s'effectuent en navette privée. Pour des déplacements en toute sérénité"
+    },
+    "illustration":{
+        "itemone":"RESERVER",
+        "itemtwo":"RECUPERER",
+        "itemthree":"VOYAGER"
+    },
+    "reviews":{
+        "title":"AVIS CLIENTS"
+    },
+    "contact":{
+        "header":"Avez-vous des questions",
+        "title":"CONTACTEZ-NOUS",
+        "subtitle":"Nous vous repondrons dans la journée. ",
+        "request":"Faite une demande",
+        "mapTitle":"Nous sommes ici !"
+    },
+    "form":{
+        "name":"Nom",
+        "email":"Email",
+        "phone":"Telephone",
+        "message":"Message",
+        "send":"ENVOYER",
+        "checkbox":"En cochant cette case, j'accepte",
+        "confidential":" la politique de confidentialité de ce site.",
+        "rgpd":"LES INFORMATIONS COLLECTÉES DANS CE FORMULAIRE SERVENT UNIQUEMENT À DONNER SUITE À VOTRE DEMANDE DANS LES MEILLEURES CONDITIONS. ELLES NE SONT EN AUCUN CAS TRANSMISES À UNE AUTRE ENTITÉ. SI VOUS SOUHAITEZ AVOIR ACCÈS À VOS DONNÉES PERSONNELLES OU QU’ELLES NE SOIENT PLUS CONSERVÉES, VOUS POUVEZ ÉCRIRE À",
+        "emailInfo":"samirberrahrah@hotmail.fr",
+        "error":{
+            "required":"Ce champs est requis",
+            "emailFormat":"Veuillez saisir un email valid",
+            "minLenght":"Champ minimaun de 3 trois caracteres"
+        }
+    },
+    "faq":{
+        "title":"Foire aux questions",
+        "subtitle":"QUESTIONS FREQUANTES",
+        "question0":"Comment réserver une course ?",
+        "answer0":"Rendez-vous sur votre site www.allonavette.fr rebrique reservation ou soit directement par téléphone en appelant le : 01 82 41 01 50 .",
+        "question1":"COMMENT PUIS-JE SAVOIR SI LE CHAUFFEUR EST À PROXIMITÉ ? ",
+        "answer1":"Lorsque le chauffeur arrive à proximité de votre lieu de prise en charge, vous recevez un SMS ou un appel vous indiquant qu’il est à votre disposition. Le chauffeur est toujours à l’avance de l’horaire du RDV. Un principe de bon sens afin que le client soit rassuré.",
+        "question2":"À QUI S’ADRESSENT LES TYPES DE VÉHICULES ?",
+        "answer2":"que vous vous déplaciez seul ou en groupe, il y a forcément un véhicule adapté à votre demande. La berline peut transporter jusqu’à 4 personnes.Le VAN quant à lui, peut transporter de 5 à 8 personnes. Lorsque votre chauffeur vous contactera pour la confirmation de la course, précisez-lui la quantité de bagages à transporter.",
+        "question3":"LES ANIMAUX DE COMPAGNIE SONT-ILS ACCEPTÉS À BORD DU VÉHICULE ?",
+        "answer3":"Dans le cas où vous devriez vous déplacer en compagnie d’un animal, il convient de l’indiquer au chauffeur dès la réservation. Le chauffeur vous informera alors s’il accepte ou non car c’est du cas par cas, en effet, par exemple, un chat dans son habitacle est accepté, en revanche, un chien à même la banquette n’est pas accepté.",
+        "question4":"COMMENT PUIS-JE SAVOIR SI LE CHAUFFEUR EST À PROXIMITÉ ?",
+        "answer4":"Lorsque le chauffeur arrive à proximité de votre lieu de prise en charge, vous recevez un SMS ou un appel vous indiquant qu’il est à votre disposition. Le chauffeur est toujours à l’avance de l’horaire du RDV. Un principe de bon sens afin que le client soit rassuré.",
+        "question5":"QUE SE PASSE-T-IL SI LE CHAUFFEUR NE SE PRÉSENTE PAS À L’HEURE FIXÉE ?",
+        "answer5":"Un cas de force majeur peut empêcher le chauffeur de se rendre à votre adresse de départ (accident sur le trajet, problème mécanique complexe…). Dans ce genre de situation, vous serez alerté immédiatement et un chauffeur de secours viendra en remplacement afin d’honorer votre demande.",
+        "question6":"Qui contacter pour un objet oublié ?                                                     ",
+        "answer6":"En cas d'oubli d'objet de valeur à bord du véhicule, veuillez contacter le service commercial depuis la rubrique Contactez-nous, Nous nous chargerons dans les meilleurs délais de contacter le chauffeur afin d'organiser la récupération de votre objet. Vous pourrez ainsi récupérer votre objet dans nos locaux situés à Puteaux."
+    },
+    "flotte":{
+        "title":"NOTRE FLOTTE DE VEHICULE",
+        "subtitle":"NOS CATEGORIES"
+    },
+    "service":{
+        "title":"NOS SERVICES",
+        "itemone":"AEROPORTS",
+        "itemoneContent":"Nous assurons vos transferts à Paris et Ile-de-France (aéroports, gares, RDV…) selon vos contraintes horaires.",
+        "itemtwo":"GARES",
+        "itemtwoContent":"Nous assurons vos transferts à Paris et Ile-de-France (aéroports, gares, RDV…) selon vos contraintes horaires.",
+        "itemthree":"BUSINESS",
+        "itemthreeContent":"Nous assurons vos transferts à Paris et Ile-de-France (aéroports, gares, RDV…) selon vos contraintes horaires.",
+        "itemfour":"TRANSFERT",
+        "itemfourContent":"Nous assurons vos transferts à Paris et Ile-de-France (aéroports, gares, RDV…) selon vos contraintes horaires.",
+        "itemfive":"MISE A DISPOSITION",
+        "itemfiveContent":"Nous assurons vos transferts à Paris et Ile-de-France (aéroports, gares, RDV…) selon vos contraintes horaires.",
+        "itemsix":"LONGUE DISTANCES",
+        "itemsixContent":"Nous assurons vos transferts à Paris et Ile-de-France (aéroports, gares, RDV…) selon vos contraintes horaires.",
+        "itemseven":"ÉVÈNEMENTS",
+        "itemsevenContent":"Nous assurons vos transferts à Paris et Ile-de-France (aéroports, gares, RDV…) selon vos contraintes horaires.",
+        "itemeight":"CONCIERGERIE",
+        "itemeightContent":"Nous assurons vos transferts à Paris et Ile-de-France (aéroports, gares, RDV…) selon vos contraintes horaires."
+    },
+    "rates":{
+        "title":"NOS TARIFS",
+        "subtitle":"PRINCIPALE DESTINATION",
+        "moreRate":"ENCORE PLUS D'EVASION",
+        "cdg":"Paris vers Charle De Gaulle",
+        "orly":"Paris vers Orly",
+        "bva":"Paris vers beauvais",
+        "otherDestination":"Autre destinations",
+        "maxPeople":"De 1 à 3 personnes",
+        "maxLagage":"Max 3 valises",
+        "type":{
+            "standard":"ECONNOMIQUE",
+            "business":"BERLINE",
+            "van":"VAN",
+            "green":"GREEN"       }
+    },
+   "reservation":{
+       "title":"RESERVATION VOTRE COURSE"
+   }
+}
