@@ -107,6 +107,9 @@
               "src/assets/vendors/collapse.js"
             ]
           }
+        },
+        "deploy": {
+          "builder": "angular-cli-ghpages:deploy"
         }
       }
     }
